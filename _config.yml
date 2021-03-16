@@ -1,0 +1,19 @@
+# Site settings
+name: 张承炘
+location: 香港
+company: 香港浸会大学
+position: 硕士在读
+github: https://github.com/ChenxinZhang
+facebook: https://www.facebook.com/
+phone: 1876187***
+email: 836500860@qq.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
